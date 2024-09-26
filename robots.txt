@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ompedech.github.io/sitemap.ompedech.gz
+Sitemap: https://ompedech.github.io/app/sitemap.ompedech.gz
+Sitemap: https://ompedech.github.io/assets/sitemap.ompedech.gz
+Sitemap: https://ompedech.github.io/css/sitemap.ompedech.gz
+Sitemap: https://ompedech.github.io/data/sitemap.ompedech.gz
+Sitemap: https://ompedech.github.io/includes/sitemap.ompedech.gz
+Sitemap: https://ompedech.github.io/item/sitemap.ompedech.gz
+Sitemap: https://ompedech.github.io/src/sitemap.ompedech.gz
